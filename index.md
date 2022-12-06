@@ -32,7 +32,7 @@ Lifted trucks are also built for hauling purposes, such as hauling a load of dir
 </p>
 <img src="big truck.jpg" width="400">
   <p>
-<img src="2024-chevy-silverado-hd-jumps-on-the-extreme-mall-crawler-scene-with-cgi-poise-200424_1" width="400">
+<img src="2024-chevy-silverado-hd-jumps-on-the-extreme-mall-crawler-scene-with-cgi-poise-200424_1.jpg" width="400">
   </div>
 <div class="footer">
 Copyright &copy; 2019
